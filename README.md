@@ -38,7 +38,7 @@ MarkDown 내용정리
 3. 숫자 3
 
 <!-- Link -->
-Click [My Git Hub](https://github.com/[내주소](https://github.com/qaze4444/AI_Project_2026_01.git))
+Click [My Git Hub]https://github.com/qaze4444/AI_Project_2026_01.git
 
 <!-- Image -->
 [![image](https://github.com/shingugitvr00/AI_Project/blob/main/ControlNet/Pixel.png?raw=true)](https://www.google.com/imgres?q=%EC%82%AC%EC%A7%84&imgurl=https%3A%2F%2Fi.namu.wiki%2Fi%2Fv8yNjB16ijFF3ZhPgBhsBHfvcXIXvzz-C-Zi3d1UZM657ALY1seeeUrfhqS_qMEWGdS6WJbPDFtGa0KhvbKEsg.webp&imgrefurl=https%3A%2F%2Fnamu.wiki%2Fw%2F%25EC%2582%25AC%25EC%25A7%2584&docid=vr1isC64wyUwkM&tbnid=qiItHzA4cuHE5M&vet=12ahUKEwjej7eI9bSTAxXVk68BHR-0J8kQnPAOegQIJBAB..i&w=1000&h=804&hcb=2&ved=2ahUKEwjej7eI9bSTAxXVk68BHR-0J8kQnPAOegQIJBAB)
@@ -60,7 +60,7 @@ debug console Sample `Debug.log("--")`
 
 ```C#
 Debug.log("--")
-
+```
 
 <!-- TodoList -->
 ~ [x] #739
